@@ -6,7 +6,7 @@
 
 - Multiplataforma
 
-- ** Write Once, Run Everywere **
+- **Write Once, Run Everywere**
 
 - Sun Microsystems
 
