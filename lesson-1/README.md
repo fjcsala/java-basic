@@ -1,37 +1,37 @@
 🇧🇷 **PT-BR**
 
-# Aula 1
+# Aula 1 - A História do Java
 
-## A História do Java
+> Palavras-Chave
 
-- Multiplataforma
+**Sun Microsystems:** Empresa de tecnologia americana criadora do Java.
 
-- **Write Once, Run Everywere**
+**James Gosling:** Pessoa chave no desenvolvimento do Java.
 
-- Sun Microsystems
+**Green Team:** Time de desenvolvedores da Sun liderado por James Gosling para o desenvolvimento do Java.
 
-- James Gosling
+**Multiplataforma:** A idéia da Sun era fazer com que um determinado dispositivo pudesse se comunicar com vários outros do nosso dia-a-dia. Inicialmente seria utilizada a linguagem de programação C++, porém devido a arquitetura de cada dispositivo ser diferente era necessário um compilador para cada tipo de dispositivo. Nisto pensou-se em desenvolver uma plataforma onde um código poderia ser escrito uma vez e interpretado em vários dispositivos diferentes.
 
-- Green Team
+**Green Talk:** Foi o primeiro nome do Java.
 
-- Fazer com que vários dispositivos pudessem se comunicar utilizando a linguagem de programação C++.
+**Oak:** Rebatização da tecnologia chamada Green Talk. Ou seja, Green Talk passou a se chamar Oak.
 
-- Green Talk (Linguagem de Programação)
+**Star Seven:** Foi um dispositivo desenvolvido pela Sun que possibilitava uma maior interação entre o usuário e vários dispositivos eletrônicos como: TVs, Videocassetes, Aparelhos de TV a Cabo, etc. Porém não houve interesse por parte de grandes empresas e o Star Seven foi engavetado.
 
-- Oak (Rebatização do Green Talk)
+**Duke:** Primeiramente foi o mascote do Star Seven e posteriormente permaneceu como o mascote da tecnlologia Java.
 
-- *7 (Star Seven)
+**World Wide Web:** Com o BOOM da internet e o fracasso do Star Seven, a Sun viu a possibilidade de utilizar o Java para o desenvolvimento de aplicações em web browsers.
 
-- Duke (Mascote)
+**WebRunner:** Foi um codname para um web browser desenvolvido pela Sun utilizando Java e baseando-se no Mosaic. 
 
-- WebRunner
+**Hot Java Browser:** Foi o nome oficial do web browser desenvolvido pela Sun, substituindo o codname WebRunner.
 
-- Java (Rebatização do Oak)
+**Java:** Rebatização da tecnologia chamada Oak. Ou seja, Oak passou a ser chamar Java. Curiosamente já existia uma outra linguagem de programação chamada Oak e o nome Java tem ligação com o café que é colhido nas Ilhas de Java.
 
-- Java Ring
+**Java Ring:** Dispositivo desenvolvido pela Sun para atuar como chave pessoal em autenticações.
 
-- Nasa
+**Nasa:** A sonda espacial utilizada no planeta Marte enviado em meados de 2004 utilizava Java em seu código para comunicações com os servidores aqui na Terra.
 
-- Código Aberto
+**Código Aberto:** Desde 2006 o Java possui seu código fonte aberto.
 
-- Oracle
+**Oracle:** Empresa americana de tecnologia que adquiriu a Sun (e respectivamente o Java) em 2009.
