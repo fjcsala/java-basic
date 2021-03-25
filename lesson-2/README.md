@@ -26,3 +26,7 @@
     - **JavaC:** Java Compiler (Compilador do Java).
     - **Debugger:** Ferramenta para verificar a execução do código passo-a-passo. 
     - **APIs:** Recursos extras para desenvolvimento de aplicações.
+
+**.java:** Extensão de arquivo com código fonte em Java.
+
+**.class:** Extensão de arquivo pós compilação.
